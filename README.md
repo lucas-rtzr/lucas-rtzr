@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lucas Lee 🙋🏻‍♂️
+# Hi there 👋 I'm Lucas 🙋🏻‍♂️
 
 <!--
 **lucas-rtzr/lucas-rtzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
